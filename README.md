@@ -13,6 +13,6 @@ Students are encouraged to take follow on courses such as finite element methods
 
 ## 📄 Downloads
 
-- [Syllabus](materials/syllabus.pdf)
+- [Syllabus](materials/CMSE_821-Fall_2025.pdf)
 - [Homework 1](materials/hw1.pdf)
 - [Homework 2](materials/hw2.pdf)
