@@ -30,6 +30,7 @@ tions: Steady-State and Time-Dependent Problems, SIAM, 2007.
 3. Trottenberg, U., Oosterlee, C., and Schuller, A., Multigrid
 4. Haller, G., Modeling Nonlinear Dynamics from Equations and Data
 5. Boscarino, S., Pareschi, L., and Russo, G., Implicit-Explicit Methods for Evolutionary PDEs
+6. da Veiga, L.B. and Lipnikov, K. and Manzini, G., The mimetic finite difference method for elliptic problems
 
 
 ## 📄 Downloads
