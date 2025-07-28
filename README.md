@@ -36,5 +36,7 @@ tions: Steady-State and Time-Dependent Problems, SIAM, 2007.
 ## 📄 Downloads
 
 - [Syllabus](materials/CMSE_821-Fall_2025.pdf)
-- [Homework 1](materials/hw1.pdf)
-- [Homework 2](materials/hw2.pdf)
+- [Homework 1 - Deu Sep 22nd, 2025](homework/elliptic_pde_problem_set.pdf)
+- [Suplment 1 - Deu Sep 22nd, 2025](homework/elliptic_fdm_analysis_problems.pdf)
+- [Homework 2 - Deu Oct 20nd, 2025](homework/)
+- [Suplment 2 - Deu Oct 20nd, 2025](homework/)
