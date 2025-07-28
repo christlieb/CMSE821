@@ -12,7 +12,12 @@ Students are encouraged to take follow on courses such as finite element methods
 
 ## Office Houres
 - D319 Wells Hall
-- M-W 1:00-2
+- M-W 1:00-2:00
+
+## Contact
+- Phone - 517-353-3831
+- Email - christli@msu.edu
+- Note - I do not respond to email outside of business hours.
 
 ## Textbooks
 Required Textbook
