@@ -12,19 +12,15 @@ Students are encouraged to take follow on courses such as finite element methods
 
 ## Textbooks
 Required Textbook
-
-• Randall J. LeVeque, Finite Difference Methods for Ordinary and Partial Differential Equa-
+1. Randall J. LeVeque, Finite Difference Methods for Ordinary and Partial Differential Equa-
 tions: Steady-State and Time-Dependent Problems, SIAM, 2007.
+
 ## Supplementary Texts
-• Ascher, U. and Petzold, L., Computer Methods for ODEs and DAEs
-
-• Trefethen, L. and Bau, D., Numerical Linear Algebra
-
-• Trottenberg, U., Oosterlee, C., and Schuller, A., Multigrid
-
-• Haller, G., Modeling Nonlinear Dynamics from Equations and Data
-
-• Boscarino, S., Pareschi, L., and Russo, G., Implicit-Explicit Methods for Evolutionary PDEs
+1. Ascher, U. and Petzold, L., Computer Methods for ODEs and DAEs
+2. Trefethen, L. and Bau, D., Numerical Linear Algebra
+3. Trottenberg, U., Oosterlee, C., and Schuller, A., Multigrid
+4. Haller, G., Modeling Nonlinear Dynamics from Equations and Data
+5. Boscarino, S., Pareschi, L., and Russo, G., Implicit-Explicit Methods for Evolutionary PDEs
 
 
 ## 📄 Downloads
