@@ -10,6 +10,10 @@ We note that now days, an important topic is how to blend numerical methods with
 
 Students are encouraged to take follow on courses such as finite element methods spectrum/pseudospectral methods, and finite volume methods.  These topics when paired with numerical linear algebra open the door to solving a wide variety of partial differential equations.
 
+## Course Location and Time
+- Location - Engineering Building Room 2320
+- M-W 10:20am to 11:40am 
+
 ## Office Houres
 - D319 Wells Hall
 - M-W 1:00-2:00
