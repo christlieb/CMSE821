@@ -37,7 +37,7 @@ tions: Steady-State and Time-Dependent Problems, SIAM, 2007.
 6. da Veiga, L.B. and Lipnikov, K. and Manzini, G., The mimetic finite difference method for elliptic problems
 
 
-## 📄 Downloads
+## Downloads
 
 - [Syllabus](materials/CMSE_821-Fall_2025.pdf)
 - [Homework 1 - Deu Sep 22nd, 2025](homework/elliptic_pde_problem_set.pdf)
