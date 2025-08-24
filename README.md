@@ -38,8 +38,17 @@ tions: Steady-State and Time-Dependent Problems, SIAM, 2007.
 
 
 ## Downloads
-
+### Syllabus
 - [Syllabus](materials/CMSE_821-Fall_2025.pdf)
+
+### Course notes and supplemental learning material
+- [Christliebs Notes](materials/CMSE821_notes-8_25_2025.pdf)
+- [Pythion Sep Var Notebook](materials/8_25_2025_Serpation_of_Vareables_soluton_Poisson_Heat_Wave_2D.ipynb)
+- [Pythion Approximation Notebook](materials/8_25_2025_Ploynmial_Approximation.ipynb)
+- [Pythion Learn Symbolic Notebook (Appendix B)](materials/8_25_2025_symbolic_fd_exercises_v2.ipynb)
+- [Pythion Method of Mometns Notebook (Appendix B)](materials/8_25_2025_fd_method_of_moments.ipynb)
+
+### Homework
 - [Homework 1 - Deu Sep 22nd, 2025](materials/8_25_2029_HW1.pdf)
 - [Suplment 1 - Deu Sep 22nd, 2025](materials/elliptic_fdm_analysis_problems.pdf)
 - [Homework 2 - Deu Oct 20nd, 2025](materials/)
