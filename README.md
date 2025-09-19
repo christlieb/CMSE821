@@ -51,5 +51,5 @@ tions: Steady-State and Time-Dependent Problems, SIAM, 2007.
 ### Homework
 - [Homework 1 - Deu Sep 22nd, 2025](materials/8_25_2029_HW1.pdf)
 - [Suplment 1 - Deu Sep 22nd, 2025](materials/elliptic_fdm_analysis_problems.pdf)
-- [Homework 2 - Deu Oct 20nd, 2025](materials/)
+- [Homework 2 - Deu Oct 20nd, 2025](materials/8_25_2029_HW1.pdf)
 - [Suplment 2 - Deu Oct 20nd, 2025](materials/)
